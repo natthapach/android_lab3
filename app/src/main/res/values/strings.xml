@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lab3</string>
+    <string name="inc">+</string>
+    <string name="dec">-</string>
+    <string name="default_score">40</string>
+    <string name="tag_player_1">player 1</string>
+    <string name="tag_player_2">player 2</string>
+    <string name="tag_player_3">player 3</string>
+    <string name="tag_player_4">player 4</string>
 </resources>
